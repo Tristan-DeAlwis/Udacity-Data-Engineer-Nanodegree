@@ -56,7 +56,7 @@ Implement the logic in etl.py to load data from staging tables to analytics tabl
 Test by running etl.py after running create_tables.py and running the analytic queries on your Redshift database to compare your results with the expected results.
 Delete your redshift cluster when finished.
 
-##Document Process
+## Document Process
 Do the following steps in your README.md file.
 
 Discuss the purpose of this database in context of the startup, Sparkify, and their analytical goals.
